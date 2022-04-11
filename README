@@ -1,0 +1,11 @@
+# Test project of implementing the gas station.
+
+Gas service has pumps and serve gas when available.
+Each gas pump provides a specific amount of gas of a certain gas type with corresponding prices.
+Service depends on gasstation-assessment module.
+
+To run service:
+
+- use java 11
+
+- `mvn clean install`

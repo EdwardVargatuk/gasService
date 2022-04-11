@@ -5,6 +5,9 @@ import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 
+/**
+ * Simulation of stored data about clients order
+ */
 @EqualsAndHashCode
 @AllArgsConstructor
 @Getter
